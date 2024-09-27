@@ -36,6 +36,6 @@ Visual Studio Code
 To calculate the sum of the first n natural numbers using recursion, the problem is broken down into smaller subproblems. The sum of the first n numbers is: Sum(n) = n + Sum(n-1)
 The base case occurs when n reaches 1, as the sum of the first natural number (1) is simply 1. The recursive function adds the current number n to the result of Sum(n-1) and continues reducing the problem size until it reaches the base case, at which point the recursion terminates and returns the result.
 ### Output:
-![output]()
+![output](Sum.jpg)
 ### Conclusion:
 We learned how to add n numbers using recursion in C++.
