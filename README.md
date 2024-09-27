@@ -23,9 +23,9 @@ Visual Studio Code
 ### Theory:
 The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1. The recursive method to find the Fibonacci number at a particular position involves calling the function to compute the previous two Fibonacci numbers and adding them together.
 ### Output:
-![output]()
+![output](Fibonacci.jpg)
 ### Conclusion:
-We found the fibonacci series for n number using recusion in C++.
+We found the fibonacci series for n number using recursion in C++.
 
 ## Program 3
 ### Aim: 
